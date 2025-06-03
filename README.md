@@ -1,4 +1,4 @@
-# Yandex Practicum
+# [Yandex Practicum Ассоциированные программы: фронтенд-разработчик](https://practicum.yandex.ru/profile/associated-programs-frontend-st/)
 
 
 | № cпринта | Название блока | Проектная работа |
