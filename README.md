@@ -9,9 +9,11 @@
 | 4-5    | Java Script (Введение и продолжение)    | [Место](https://kk9ine.github.io/mesto-resume/)    |
 | 6    | Java Script (Продвинутый)    | [Место](https://kk9ine.github.io/mesto-resume/)   |
 | 7    | TypeScript и ООП    | ---    |
-| 8-9    | TypeScript и ООП, ООП в интерфейсах    | [WEB-ларёк](https://clck.ru/3MQqEk)    |
+| 8    | TypeScript и ООП,ООП в интерфейсах    | [WEB-ларёк](https://kk9ine.github.io/Yandex_Project_Larek-main/)    |
+| 9    | ООП в интерфейсах    | [WEB-ларёк](https://clck.ru/3MQqEk)    |
 | 10    | Основы React    | [Страница блога](https://kk9ine.github.io/blog-main/)   |
-| 11-12    | Роутинг и авторизация, Тестирование React-приложений    | [Stellar Burger](https://clck.ru/3MQqF6)   |
+| 11   | Роутинг и авторизация    | [Stellar Burger](https://kk9ine.github.io/stellar-burgers-main/)   |
+| 12    |Тестирование React-приложений    | [Stellar Burger](https://clck.ru/3MQqF6)   |
 
 
 Щербаненко М.Р. ИБАС-с-о-23-1
